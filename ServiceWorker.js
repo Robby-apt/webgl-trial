@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-web gl ai-0.1";
 const contentToCache = [
-    "Build/webgl trial.loader.js",
-    "Build/webgl trial.framework.js",
-    "Build/webgl trial.data",
-    "Build/webgl trial.wasm",
+    "Build/webgl 2.loader.js",
+    "Build/webgl 2.framework.js",
+    "Build/webgl 2.data",
+    "Build/webgl 2.wasm",
     "TemplateData/style.css"
 
 ];
